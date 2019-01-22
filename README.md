@@ -12,7 +12,7 @@
 
 ### 業務経験
 | 言語 | 経歴 | FW | 内容 | 参考 |
-----|---- 
+|:---|:---|:---|:---|:---|  
 | JavaScript | E | JQuery,Threejs,nodejs... | 本当に多いので直近3種に絞ってます。Ajaxとアプリのために使用。GASなど細かいのはnodejsに集約 | https://nomuraya.work/techzine/techzine/ |
 | PHP | U | CakePHP,FuelPHP,Symphony | ECサイトや業務SNSの開発案件でOSSを使うのが流行ったため。PHP5.2より参画 | https://nomuraya.work/techzine/ |
 | Perl | NU | Free | ShellScriptを使うよりはPerlを使うほうが文字列処理に強かったため。運用ではなく開発支援ツールとして。今はOSS貢献のため | https://adiary.org/ |
@@ -25,7 +25,7 @@
 ### プロジェクト
 期間は最近のもので、降順です。
 | 期間 | ポジション | 主な言語 | 目標 | 内容 |
-----|---- 
+|:---|:---|:---|:---|:---|
 | 2年 | メンバー | [WarpDrive](https://internet.watch.impress.co.jp/docs/news/1125180.html) | Python | 概要ページ以上の事はNDAによる |
 | 0.5年 | メンバー | Sigfox | Ruby | 法人の空調・電力の省エネ化推進事業のための機器計測、データ活用システムの構築。
 | 2年 | プロダクトマネージャー | ウイルスバスター | Java/JavaScript | テストカバレッジ85% | ホームNASやネットワーク機器類の自動テスト化。Java,JavaScript(Selenium)＋現行のExcel仕様書からテストプログラムを構築する。
