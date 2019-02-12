@@ -46,7 +46,9 @@ CUIにしろGUIにしろ、lsした時にディレクトリのコメントがあ
 人事などヘッドハンター向けの面談資料を置いています。  
 プロジェクトの予算や概要などNDAに抵触しない範囲で公開しています。  
 [NDAとは？　外部サイト：【はじめてのNDA】秘密保持契約は何が違反？違反をするとどうなる？](https://media.ai-con.lawyer/topic/nda-and-violation001/)  
-[履歴書PDF](https://drive.google.com/open?id=1QuqGb1TccsYlOy2RUbo4uEwGOxus3dcp)と[経歴書PDF](https://drive.google.com/open?id=1sTH33KduWh8ozMigUB6d3EtOIcsk2cno)
+[履歴書PDF](https://drive.google.com/open?id=1QuqGb1TccsYlOy2RUbo4uEwGOxus3dcp)と[経歴書PDF](https://drive.google.com/open?id=1sTH33KduWh8ozMigUB6d3EtOIcsk2cno)を置いていますので、書類が必要な場合はこちらのリンクよりダウンロードしてご活用いただけますよう、よろしくお願いいたします。  
+ダウンロードリンク先はgoogleドライブです。  
+なお、貴社フォームの都合などで編集が必要な場合は現物をお渡しできますので、[アンケートフォーム](https://docs.google.com/forms/u/0/)【TODO】よりご連絡いただけますでしょうか。
   
 【ここから】  
 **NDAをご存知でない方**は今のうちに確認しておくことが望ましいです。  
