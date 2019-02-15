@@ -49,7 +49,8 @@ CUIにしろGUIにしろ、lsした時にディレクトリのコメントがあ
   
 [履歴書PDF](https://drive.google.com/open?id=1QuqGb1TccsYlOy2RUbo4uEwGOxus3dcp)と[経歴書PDF](https://drive.google.com/open?id=1sTH33KduWh8ozMigUB6d3EtOIcsk2cno)を置いていますので、書類が必要な場合はこちらのリンクよりダウンロードしてご活用いただけますよう、よろしくお願いいたします。  
 ダウンロードリンク先はgoogleドライブです。  
-なお、貴社フォームの都合などで編集が必要な場合は現物をお渡しできますので、[アンケートフォーム](https://docs.google.com/forms/u/0/)【TODO】よりご連絡いただけますでしょうか。
+なお、貴社フォームの都合などで編集が必要な場合は現物をお渡しできますので、[アンケートフォーム](https://drive.google.com/open?id=1Ug7pXu2Y2BsOBdPqQWu2iTK3M_WHClQdi9jEUzGPD_s)よりご連絡いただけますでしょうか。  
+**Googleフォームにもありますが、送付先アドレスと申請が事実であることの確認のためにお電話差し上げます。**
   
 【ここから】  
 **NDAをご存知でない方**は今のうちに確認しておくことが望ましいです。  
