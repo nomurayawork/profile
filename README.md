@@ -57,13 +57,11 @@ CUIにしろGUIにしろ、lsした時にディレクトリのコメントがあ
 
 ### for hunter
 人事などヘッドハンター向けの面談資料を置いています。  
+資料をデータとして欲しい人は[resumeリポジトリ](https://github.com/nomurayawork/resume)をご参照ください。  
+閲覧権限を付与しますのでメールアドレス必須です。  
+  
 プロジェクトの予算や概要などNDAに抵触しない範囲で公開しています。  
 [NDAとは？　外部サイト：【はじめてのNDA】秘密保持契約は何が違反？違反をするとどうなる？](https://media.ai-con.lawyer/topic/nda-and-violation001/)  
-  
-[履歴書PDF](https://drive.google.com/open?id=1QuqGb1TccsYlOy2RUbo4uEwGOxus3dcp)と[経歴書PDF](https://drive.google.com/open?id=1sTH33KduWh8ozMigUB6d3EtOIcsk2cno)を置いていますので、書類が必要な場合はこちらのリンクよりダウンロードしてご活用いただけますよう、よろしくお願いいたします。  
-ダウンロードリンク先はgoogleドライブです。  
-なお、貴社フォームの都合などで編集が必要な場合は現物をお渡しできますので、[アンケートフォーム](https://drive.google.com/open?id=1Ug7pXu2Y2BsOBdPqQWu2iTK3M_WHClQdi9jEUzGPD_s)よりご連絡いただけますでしょうか。  
-**Googleフォームにもありますが、送付先アドレスと申請が事実であることの確認のためにお電話差し上げます。**
   
 【ここから】  
 **NDAをご存知でない方**は今のうちに確認しておくことが望ましいです。  
