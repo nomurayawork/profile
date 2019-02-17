@@ -20,6 +20,8 @@ github転職のベストプラクティスを考えます。
 |---|---|
 |Qiita|[nomurasan](https://qiita.com/nomurasan)|
 |Wantedly|[18437113](https://www.wantedly.com/users/18437113)|
+|旧Github|[shimajima-eiji](https://github.com/shimajima-eiji/)|
+|slideshare|[ssusered50fb](https://www.slideshare.net/ssusered50fb)|
 
 FaceBookとかTwitterとかInstagramは過去にやってたんですが、最近は面倒くさくなってログインすらしていません……。
 
