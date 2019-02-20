@@ -4,4 +4,4 @@
 
 # 公開版
 - [THREE.js](https://www.canva.com/design/DADSF-hqhHA/share?role=VIEWER&token=GBMy7SzO0pTfSXM1W_QdDw&utm_content=DADSF-hqhHA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
-- [API](https://www.canva.com/design/DADR_0yggPM/share?role=VIEWER&token=QG6Uomgh-wwUDOixOi9JLw&utm_content=DADR_0yggPM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [API](https://www.canva.com/design/DADR_0yggPM/QG6Uomgh-wwUDOixOi9JLw/view)
