@@ -13,3 +13,6 @@ Facebookなどのようにある程度情報公開について保護されたり
 また、プロジェクトや業務内容によっては公開NGのケースもありえます。  
   
 [NDAとは？　外部サイト：【はじめてのNDA】秘密保持契約は何が違反？違反をするとどうなる？](https://media.ai-con.lawyer/topic/nda-and-violation001/) 
+
+# GithubPagesの仕様について
+マークダウンとかテクニックとかその辺のノウハウについては、[GithubPagesのリポジトリ](../../../../githubpages)をご参照ください。
