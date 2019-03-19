@@ -8,7 +8,7 @@ github転職のベストプラクティスを考えます。
 |[README.md](../../blob/master/README.md)|通常ページのindex.htmlに該当します。めったに更新しませんが、変更があった場合は大掛かりな作業をしています。|
 |[Changelog.md](../../tree/master/Changelog.md)|更新履歴。特に重要なものやIssueだけ対応する方針です。|
 |[index.md](../../blob/master/index.md)|GithubPagesで表示するためのファイル。|
-|[for hunter](../../tree/master/for%20hunter)|人事向け資料を置いています。データとして欲しい人は[resumeリポジトリ](https://github.com/nomurayawork/resume)をご参照ください。|
+|[for hunter](../../tree/master/for%20hunter)|人事向け資料。データが必要な方は[resumeリポジトリ](https://github.com/nomurayawork/resume)をご参照ください。|
 |[for engineer](../../tree/master/for%20engineer)|今まで関わったプロジェクトや勉強会など技術ベースの資料を置いています。|
 |[for officer](../../tree/master/for%20officer)|人柄採用やマインドを重視する経営者さま向けの資料です。|
 |[for agent](../../tree/master/for%20agent)|登録サービスで使った内容をまとめて置いています。|
