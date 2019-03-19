@@ -6,15 +6,18 @@
 - 差異がある場合、項目＞補足の通り優先されます。
 
 ## 概要(TL;DR)
-- 直近： R&D。フェーズを無理やり当てはめると機能要求が降りてくるので仕様策定して（物理的な環境基盤）を構築していただき、その上で動く環境を用意してお客様のデータ活用とサービスの保守。
-- 関心・サービス： IoTデータ基盤のセンシング、Webアプリのサーバー・ネットワークインフラ構築(クラウドならAWS,GCP/オンプレならHyper-V,Docker)にデータ蓄積、分析
-- 言語・変遷： 元々はJQueryデザイナー。フロントJSからPHP～と、アプリサーバー構築から運用DB設計、SIerとしてお客様環境への導入とネットワークも担当。
-- フェーズ： 仕様が下りて来てからの設計ヒアリング～運用まで。主に自動化を前提とした開発・評価が多いため要求定義からテスト要件を組み込み見積もりと納期を策定。
+- 直近： R&D。フェーズを無理やり当てはめると機能要求が降りてくるのでシステム要件の仕様を興して、指定先（AWS/オンプレ)でお客様のデータ活用とサービスの開発・運用補助とシステム保守
+- 工程： 仕様が下りて来てからの設計ヒアリング～運用まで。主に自動化を前提とした開発・評価が多いため要求定義からテスト要件を組み込み見積もりと納期を策定。
+- 言語変遷： 元々はJQueryのWebデザイナー。フロントJSからPHP～と、アプリサーバー構築から運用DB設計、SIerとしてお客様環境への導入とネットワークも担当。
+- 来歴： 関西の大学を出て、課題解決のスペシャリスト（今で言うウルシステムズ社さんスタイルのITコンサルタント的なイメージ）として従事。本格的な開発を学びたくなり上京。自動化、品質評価、セキュリティに長じる。
+- 性格： エンジニアらしくなくイケイケ、マネタイズ好きで事業展開の技術的な相談役を目指す。勉強会ではギークだが、プログラミングは課題解決の手法と割り切っており、技術力より技術の運用力の向上に高い関心がある。
+- 傾向： 今までの経験でやったことがない・考えなかった課題に取り組みたい。シンプルに「システムを入れたら解決できますよ」というプロジェクトを好む。
+- 関心事： IoTデータ基盤のセンシング、Webアプリのサーバー・ネットワークインフラ構築(クラウドならAWS,GCP/オンプレならHyper-V,Docker)にデータ蓄積、分析
 
 ## 言語別
 以下表の経歴項目の凡例。
 
-|経歴|詳細|業務経験（目安）|
+|経歴|詳細|業務レベル（目安）|
 |---|---|---|
 |A|直近でも使っていて、習熟度も高い。|３年～|
 |B|ブランクはあるけどすぐに思い出せる、あるいはとりあえず使える程度。|～３年|
@@ -25,15 +28,16 @@
 
 | 言語 | 経歴 | FW | 内容 | 参考 |
 |:---|:---|:---|:---|:---|  
-| JavaScript | A | JQuery,Threejs,nodejs... | 多いので直近3種。業務用Webアプリ開発や、Slackなど各種連携でGASなど多岐 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| Python | A | Jupyter,Django | 機械学習やデータ集計。Anaconda系よりIPython、CPython系を好む。Dockerfileの設計思想に共感し、Ansibleやpipenvを愛用する。 |  https://nomuraya.work/techzine/ |
-| Golang | C | Free | 開発支援ツール作成用途として。小規模な環境構築や迅速な開発が求められる場合に採用する傾向が多い。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| Perl | B | Free | ShellScriptの文字列処理の拡張。開発支援ツールとして運用。OSS活動貢献中 | [OSSオフィシャルページ:https://adiary.org/](https://adiary.org/) |
-| Java | B | Spring,Selenium | 古くはServletやAppletを使用してアプリ開発に従事したが、最近は講師業務としてプログラミング教育で活用 | なし |
-| Ruby | B | Rails | GASの代わりに使用。チーム開発でGitlabに移行した時に全てRubyでマイクロサービス化を推進。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| JavaScript(Cli) | A | JQuery,Threejs,Redux | WebアプリUI/UXや3Dゲーム風画面など。SCSSも含む | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| JavaScript(Srv) | A | nodejs,TypeScript,GAS | 多いので直近3種、Webアプリのサーバーサイド、SlackやLine連携など。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| Python | A | Jupyter,Django | 機械学習やデータ集計でErasticSearchやKibana等と連携。Anaconda系よりIPython、CPython系を好む。環境構築はAnsibleやpipenv |  https://nomuraya.work/techzine/ |
+| Golang | C | Free | 小規模な環境構築や迅速な開発が求められる場合に開発支援ツールとして。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| Perl | B | Free | ShellScriptの文字列処理の拡張。開発支援ツールとして。OSS活動貢献中 | [OSSオフィシャルページ:https://adiary.org/](https://adiary.org/) |
+| Java | B | Spring,Selenium | 業務系アプリや基幹システム開発で採用。また講師業務でプログラミング教育の教材として | なし |
+| Ruby | B | Rails | チーム開発でGitlabに移行した時に全てRubyでマイクロサービス化を推進。フロント・サーバ・インフラを言語的に一元管理する。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
 | VB | B | ExcelVBA, AutoIT | 運用のオートメーションの一環として。UWSCもここに含める |
 | Prolog | C | Free | 業務系ルールエンジンの構築など、主に業務利用。 | なし |
-| PHP | B | CakePHP,FuelPHP,Symphony | ECサイトや業務SNSの開発でOSS黎明期より参画。当時Ver5.2 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| PHP | B | Cake,Fuel, ZendFW | ECサイトや業務SNS開発。当時Ver5.2。アフィリエイト活動としてWordPressプラグインなど | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
 
 全体として複数案件を並行することが多く、開発終了から納品、運用のためのシステム利用教育あるいはスキルトランスファー、  
 別途契約にて保守を行い別プロジェクトへ参画する業務を行っているため、自動化のための開発、運用サポートが強いです。
@@ -42,14 +46,14 @@
 期間は最近のもので、降順です。
 
 【凡例】
-**期間：部署（人数）：ポジション**
+**社名 期間：部署（人数）：ポジション**
 
-### （研修）エンペックスエデュケーション： 0.1年:IT講師
-- 業務目的：「全国のエンジニアを元気にする」プロジェクトに参画
+### （研修）エンペックスエデュケーション： 0.1年:講師研修(非公開):IT講師
+- 業務目的：「全国のエンジニアを元気にする」プロジェクト
 - 工程：（他社・講習会など）新卒採用者への研修・教育（業務委託）
 - 環境：Java,
-2019年4月からの就業のため研修に参加。  
-今年は講師枠が上限に達したため不採用となったが、新卒をエンジニアへ、エンジニアのスキルアップ教育の知見を体得する。
+2019年4月からの就業のためIT講師の研修に参加。  
+今年は講師枠が上限に達したため不採用となったが、新卒をエンジニアへ、エンジニアのスキルアップ教育の知見を体得。
 
 ### （現職）KDDI総合研究所: 2年:開発部(3)：メンバー
 - 業務目的：[WarpDrive](https://internet.watch.impress.co.jp/docs/news/1125180.html)
