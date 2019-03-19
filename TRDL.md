@@ -12,30 +12,44 @@
 - フェーズ： 仕様が下りて来てからの設計ヒアリング～運用まで。主に自動化を前提とした開発・評価が多いため要求定義からテスト要件を組み込み見積もりと納期を策定。
 
 ## 言語別
+以下表の経歴項目の凡例。
+
+|経歴|詳細|業務経験（目安）|
+|---|---|---|
+|A|直近でも使っていて、習熟度も高い。|３年～|
+|B|ブランクはあるけどすぐに思い出せる、あるいはとりあえず使える程度。|～３年|
+|C|ブランクが長いもの、または勉強中のもの |～１年|
+
+言語の順番は利用日を降順にしています。  
+傾向としてコンパイル言語よりスクリプト言語の方が強いです。
+
 | 言語 | 経歴 | FW | 内容 | 参考 |
 |:---|:---|:---|:---|:---|  
-| JavaScript | E | JQuery,Threejs,nodejs... | 本当に多いので直近3種に絞ってます。Ajaxとアプリのために使用。GASなど細かいのはnodejsに集約 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| PHP | U | CakePHP,FuelPHP,Symphony | ECサイトや業務SNSの開発案件でOSSを使うのが流行ったため。PHP5.2より参画 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| Perl | NU | Free | ShellScriptを使うよりはPerlを使うほうが文字列処理に強かったため。運用ではなく開発支援ツールとして。今はOSS貢献のため | [OSSオフィシャルページ:https://adiary.org/](https://adiary.org/) |
-| Python | E | Jupyter,Django | 機械学習やデータ集計で必要なので。最初はAnsibleやpipenvを使っていましたが、最近はdockerfileにまとめてます |  https://nomuraya.work/techzine/ |
-| Ruby | U | Rails | GASの代わりに使っていたもの。チームでGitlabを採用した時に全てRubyに置き換えてマイクロサービス化を図った名残です。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| Golang | NU | Free | 位置付けはPerlと同じく開発支援ツールとして。使い慣れたdockerで全部組んじゃった方が楽なので最近は使わなくなりましたが、スクレイピングは一番しやすかったです。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
-| Prolog | NU | Free | 業務系の基幹システムの改修でルールエンジンを作った事があるんですが、色んな所で気軽に使いたくて業務利用。よく考えたらEnumが使える言語なら採用する理由はありませんでした。 | なし |
-| Java | U | Spring,Selenium | 最近は無縁。テスト自動化も今でこそJava以外の選択肢もありますので、SeleniumもGrooveとかで使うのが良いと思います。| なし |
+| JavaScript | A | JQuery,Threejs,nodejs... | 多いので直近3種。業務用Webアプリ開発や、Slackなど各種連携でGASなど多岐 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| Python | A | Jupyter,Django | 機械学習やデータ集計。Anaconda系よりIPython、CPython系を好む。Dockerfileの設計思想に共感し、Ansibleやpipenvを愛用する。 |  https://nomuraya.work/techzine/ |
+| Golang | C | Free | 開発支援ツール作成用途として。小規模な環境構築や迅速な開発が求められる場合に採用する傾向が多い。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| Perl | B | Free | ShellScriptの文字列処理の拡張。開発支援ツールとして運用。OSS活動貢献中 | [OSSオフィシャルページ:https://adiary.org/](https://adiary.org/) |
+| Java | B | Spring,Selenium | 古くはServletやAppletを使用してアプリ開発に従事したが、最近は講師業務としてプログラミング教育で活用 | なし |
+| Ruby | B | Rails | GASの代わりに使用。チーム開発でGitlabに移行した時に全てRubyでマイクロサービス化を推進。 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
+| VB | B | ExcelVBA, AutoIT | 運用のオートメーションの一環として。UWSCもここに含める |
+| Prolog | C | Free | 業務系ルールエンジンの構築など、主に業務利用。 | なし |
+| PHP | B | CakePHP,FuelPHP,Symphony | ECサイトや業務SNSの開発でOSS黎明期より参画。当時Ver5.2 | [ブログ：https://nomuraya.work/techzine/](https://nomuraya.work/techzine/) |
 
-### 凡例
-経歴について、都度更新できないので更新時点で以下のとおりです。
-- NU: ノンユーズ、あるいは現在勉強中のもの。目安として、ブランクあるいは業務経験として～１年
-- U: ユーズ、とりあえず使える。ブランクはあるけどすぐに思い出せるものか、業務経験として～３年
-- E: エキスパート。直近でも使っている。業務経験として３年～
-
-基本的に複数案件を並行することが多く、開発終了から納品、運用のためのシステム利用教育あるいはスキルトランスファー、別途契約にて保守を行い別プロジェクトへ参画する業務を行っているため、自動化のための開発、運用サポートが強いです。
+全体として複数案件を並行することが多く、開発終了から納品、運用のためのシステム利用教育あるいはスキルトランスファー、  
+別途契約にて保守を行い別プロジェクトへ参画する業務を行っているため、自動化のための開発、運用サポートが強いです。
 
 ## プロジェクト
 期間は最近のもので、降順です。
 
 【凡例】
 **期間：部署（人数）：ポジション**
+
+### （研修）エンペックスエデュケーション： 0.1年:IT講師
+- 業務目的：「全国のエンジニアを元気にする」プロジェクトに参画
+- 工程：（他社・講習会など）新卒採用者への研修・教育（業務委託）
+- 環境：Java,
+2019年4月からの就業のため研修に参加。  
+今年は講師枠が上限に達したため不採用となったが、新卒をエンジニアへ、エンジニアのスキルアップ教育の知見を体得する。
 
 ### （現職）KDDI総合研究所: 2年:開発部(3)：メンバー
 - 業務目的：[WarpDrive](https://internet.watch.impress.co.jp/docs/news/1125180.html)
