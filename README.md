@@ -5,13 +5,14 @@ github転職のベストプラクティスを考えます。
 
 |ファイル名|概要|
 |---|---|
-|[README.md](../../README.md)|通常ページのindex.htmlに該当します。めったに更新しませんが、変更があった場合は大掛かりな作業をしています。|
-|Changelog.md|更新履歴。特に重要なものやIssueだけ対応する方針です。|
-|index.md|GithubPagesで表示するためのファイル。|
-|for hunter|人事向け資料を置いています。データとして欲しい人は[resumeリポジトリ](https://github.com/nomurayawork/resume)をご参照ください。|
-|for engineer|今まで関わったプロジェクトや勉強会など技術ベースの資料を置いています。|
-|for officers|人柄採用やマインドを重視する経営者さま向けの資料です。|
-|for agent|登録サービスで使った内容をまとめて置いています。|
+|[README.md](../../blob/master/README.md)|通常ページのindex.htmlに該当します。めったに更新しませんが、変更があった場合は大掛かりな作業をしています。|
+|[Changelog.md](../../tree/master/Changelog.md)|更新履歴。特に重要なものやIssueだけ対応する方針です。|
+|[index.md](../../blob/master/index.md)|GithubPagesで表示するためのファイル。|
+|[for hunter](../../tree/master/for%20hunter)|人事向け資料を置いています。データとして欲しい人は[resumeリポジトリ](https://github.com/nomurayawork/resume)をご参照ください。|
+|[for engineer](../../tree/master/for%20engineer)|今まで関わったプロジェクトや勉強会など技術ベースの資料を置いています。|
+|[for officer](../../tree/master/for%20officer)|人柄採用やマインドを重視する経営者さま向けの資料です。|
+|[for agent](../../tree/master/for%20agent)|登録サービスで使った内容をまとめて置いています。|
+|[for user](../../tree/master/for%20user)|Github就活・転職を考えている方向けに、GithubとGithubPagesの仕様情報など|
 
 # Social
 職種または業種の関係でNDAを結んでおり、そのため最近は非常に消極的になってしまいました。  
